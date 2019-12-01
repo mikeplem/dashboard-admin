@@ -9,11 +9,15 @@ At the moment this code does nothing more than query the consul cluster to get i
 ## References
 
 ### Dependencies
+
 <https://github.com/hashicorp/consul>
+
 <https://github.com/kelseyhightower/confd>
 
 ### Code being superseded
+
 <https://github.com/mikeplem/adminchrome>
+
 <https://github.com/mikeplem/remotechrome>
 
 
